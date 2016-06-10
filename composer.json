@@ -18,7 +18,7 @@
         "php": ">=5.4.0",
         "symfony/framework-bundle": "~2.0",
         "sergeil/expander-bundle": "~1.0",
-        "hydface/direct-bundle": "dev-master"
+        "hydface/direct-bundle": "self.version"
     },
     "require-dev": {
         "phake/phake": "2.*",
